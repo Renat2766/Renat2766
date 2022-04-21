@@ -1,9 +1,28 @@
-# - 👋 Hi, I’m Renatas Shidlovskas
-## - 👀 I’m interested in Javascript, ReactJS, NodeJS
-- 🌱 I’m currently learning NodeJS
-- 💞️ I look forward to cooperation in the field of web development
-- 📫 How to reach me : email: duce201@yandex.ru, profile Linkedin : https://www.linkedin.com/in/renatas-shidlovskas-87557280/
+## - 👋 Hi, I’m Renatas Shidlovskas - frontend developer
+<hr>
+- 👀 I’m interested in Javascript, ReactJS, NodeJS
+<hr>
+- My skills : </br>
+ <img src="./src/html.png" width="50px" style="margin-top: 10px;margin-right: 15px;" />
+ <img src="./src/css.png" width="50px" style="margin-top: 10px; margin-right: 15px;" />
+ <img src="./src/js.png" width="50px" style="margin-top: 10px;" />
+ <img src="./src/react.png" width="50px" style="margin-top: 10px; margin-right: 15px; " />
+ <img src="./src/mongodb.png" width="50px" style="margin-top: 10px; margin-right: 15px; " />
+ <img src="./src/node.png" width="50px" style="margin-top: 10px;margin-right: 15px;  " />
+ <img src="./src/mysql.png" width="50px" style="margin-top: 10px;margin-right: 15px; " />
+ <img src="./src/wordpress.png" width="50px" style="margin-top: 10px; margin-right: 15px; " />
+ <br/>
+ <hr>
+<br/>
+<img src="./src/linkedin.png" width="50px" style="margin-top: 1px; margin-right: 15px; " />
 
+ My profile : [LinkedIn] 
+ <br/>
+
+
+
+
+[LinkedIn]:https://www.linkedin.com/in/renatas-shidlovskas-87557280/
 <!---
 Renat2766/Renat2766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
