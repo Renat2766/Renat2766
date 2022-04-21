@@ -3,14 +3,14 @@
 - 👀 I’m interested in Javascript, ReactJS, NodeJS
 <hr>
 - My skills : </br>
- <img src="./src/html.png" width="50px" style="margin-top: 10px;margin-right: 15px;" />
- <img src="./src/css.png" width="50px" style="margin-top: 10px; margin-right: 15px;" />
- <img src="./src/js.png" width="50px" style="margin-top: 10px;" />
- <img src="./src/react.png" width="50px" style="margin-top: 10px; margin-right: 15px; " />
- <img src="./src/mongodb.png" width="50px" style="margin-top: 10px; margin-right: 15px; " />
- <img src="./src/node.png" width="50px" style="margin-top: 10px;margin-right: 15px;  " />
- <img src="./src/mysql.png" width="50px" style="margin-top: 10px;margin-right: 15px; " />
- <img src="./src/wordpress.png" width="50px" style="margin-top: 10px; margin-right: 15px; " />
+ <img src="./src/html.png" width="50px"  style="margin-top: 10px; align:left;margin-right: 15px;" />
+ <img  src="./src/css.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;" />
+ <img src="./src/js.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;" />
+ <img src="./src/react.png" width="50px" style="margin-top: 10px; align:left; margin-right: 15px; " />
+ <img src="./src/mongodb.png" width="50px" style="margin-top: 10px;  align:left;margin-right: 15px; " />
+ <img src="./src/node.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;  " />
+ <img src="./src/mysql.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px; " />
+ <img src="./src/wordpress.png" width="50px" style="margin-top: 10px;align:left; margin-right: 15px; " />
  <br/>
  <hr>
 <br/>
