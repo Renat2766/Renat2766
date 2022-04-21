@@ -3,6 +3,7 @@
 - 👀 I’m interested in Javascript, ReactJS, NodeJS
 <hr>
 - My skills : </br>
+<div>
  <img src="./src/html.png" width="50px"  style="margin-top: 10px; align:left;margin-right: 15px;" />
  <img  src="./src/css.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;" />
  <img src="./src/js.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;" />
@@ -11,6 +12,7 @@
  <img src="./src/node.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;  " />
  <img src="./src/mysql.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px; " />
  <img src="./src/wordpress.png" width="50px" style="margin-top: 10px;align:left; margin-right: 15px; " />
+ </div>
  <br/>
  <hr>
 <br/>
