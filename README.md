@@ -3,7 +3,7 @@
 - 👀 I’m interested in Javascript, ReactJS, NodeJS
 <hr>
 - My skills : </br>
-<div style="width=100%; display=flex; justify-content=space-between;">
+<div style="display=flex; justify-content=space-between;" width=100%;>
  <img src="./src/html.png" width="50px"  style="margin-top: 10px; align:left;" />
  <img  src="./src/css.png" width="50px" style="margin-top: 10px; align:left;" />
  <img src="./src/js.png" width="50px" style="margin-top: 10px; align:left;" />
