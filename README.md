@@ -10,7 +10,7 @@
  <img src="./src/react.png" width="50px" style="margin-top: 10px; align:left;" />
  <img src="./src/mongodb.png" width="50px" style="margin-top: 10px;  align:left;" />
  <img src="./src/node.png" width="50px" style="margin-top: 10px; align:left;" />
- <img src="./src/mysql.png" width="50px" style="margin-top: 10px; align:left;" />
+ <img src="./src/mysql.png" width="50px" style="margin-top: 10px; align:left; margin-left=15px;" />
  <img src="./src/wordpress.png" width="50px" style="margin-top: 10px;align:left;" />
  </div>
  <br/>
