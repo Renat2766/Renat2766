@@ -1,6 +1,6 @@
-## - 👋 Hi, I’m Renatas Shidlovskas - frontend developer
+## - 👋 Hi, I’m Renatas Shidlovskas - fullstack developer
 <hr>
-- 👀 I’m interested in Javascript, ReactJS, NodeJS
+- 👀 I’m interested in Javascript, ReactJS, NodeJS, GoLang
 <hr>
 - My skills : </br>
 <div>
