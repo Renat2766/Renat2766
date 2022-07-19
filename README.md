@@ -7,6 +7,7 @@
  <img src="./src/html.png" width="50px"  style="margin-top: 10px; align:left;margin-right: 15px;" />
  <img  src="./src/css.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;" />
  <img src="./src/js.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;" />
+ <img src="./src/go.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;" />
  <img src="./src/react.png" width="50px" style="margin-top: 10px; align:left; margin-right: 15px; " />
  <img src="./src/mongodb.png" width="50px" style="margin-top: 10px;  align:left;margin-right: 15px; " />
  <img src="./src/node.png" width="50px" style="margin-top: 10px; align:left;margin-right: 15px;  " />
